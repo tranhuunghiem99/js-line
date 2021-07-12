@@ -1,0 +1,15 @@
+body,html{
+	background-image: url("../img/background.jpg");
+	height: 100%;
+	margin: 0;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.container{
+	
+	margin-top: 25%;
+	border: 1px solid red;
+}
